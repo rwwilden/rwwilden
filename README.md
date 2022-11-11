@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm Ronald Wildenberg
+- I have a blog <a href="https://ronaldwildenberg.com">https://ronaldwildenberg.com</a>
+- I'm on Twitter [<a href="https://twitter.com/rwwilden">https://ronaldwildenberg.com</a>](https://twitter.com/rwwilden)
 <!--
 **rwwilden/rwwilden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
